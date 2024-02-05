@@ -31,10 +31,16 @@
       <h1>External Advisors</h1>
 
       <div class="contributor-container">
-        <UserProfile
+        <UserProfile class="contributor-item"
         title="Dr. Shamik Sengupta"
         profile-picture="https://www.unr.edu/main/images/colleges-schools/engineering/cse/profiles/ShamikSengupta.jpg"
         description="Executive Director of the UNR Cybersecurity Center, Professor of Computer Science and Engineering"
+        />
+
+        <UserProfile class="contributor-item"
+        title="Bill Doherty"
+        profile-picture="https://www.unr.edu/main/images/colleges-schools/engineering/cybersecurity/profile/billdoherty.jpg"
+        description="Adjunct Faculty, Cyber Club Coach"
         />
       </div>
     </div>
