@@ -28,6 +28,7 @@
 <style scoped>
   .profile-container {
     max-width: 300px;
+    min-width: 300px;
     margin: 20px auto;
     background-color: #f0f0f0;
     padding: 20px;
@@ -49,6 +50,7 @@
     background-size: cover;
     border-radius: 5px;
     margin: 10px auto;
+    background-position: center;
   }
 
   .profile-description {

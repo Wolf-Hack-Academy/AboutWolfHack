@@ -1,17 +1,7 @@
-<script>
-import UserProfile from '../components/UserProfile.vue';
-
-export default {
-  components: {
-    UserProfile,
-  },
-};
-</script>
-
 <template>
     <div class="about">
       <h1>Team 16</h1>
-
+      
       <div class="contributor-container">
         <UserProfile class="contributor-item"
           title="Amber Hankins"
@@ -37,6 +27,16 @@ export default {
           description="BS student in Computer Science and Engineering"
         />
       </div>
+
+      <h1>External Advisors</h1>
+
+      <div class="contributor-container">
+        <UserProfile
+        title="Dr. Shamik Sengupta"
+        profile-picture="https://www.unr.edu/main/images/colleges-schools/engineering/cse/profiles/ShamikSengupta.jpg"
+        description="Executive Director of the UNR Cybersecurity Center, Professor of Computer Science and Engineering"
+        />
+      </div>
     </div>
   </template>
 
@@ -52,3 +52,13 @@ export default {
     margin: 5px;
   }
 </style>
+
+<script>
+import UserProfile from '../components/UserProfile.vue';
+
+export default {
+  components: {
+    UserProfile,
+  },
+};
+</script>
