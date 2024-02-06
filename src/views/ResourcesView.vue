@@ -4,7 +4,7 @@
       <h2>Problem Domain Book</h2>
       <p>K. Daimi, G. Francia III. (2020). Innovations in Cybersecurity Education. ISBN: 978-3-030-50243-0.</p>
       <p>This book discusses various techniques, methods, and approaches that cybersecurity experts use to educate others. It provides a detailed explanation of cybersecurity concepts with practical examples, as well as includes a roadmap of future trends for innovative cybersecurity education and training.</p>
-      <img src="./assets/978-3-030-50244-7.png">
+      <img src="https://media.springernature.com/full/springer-static/cover-hires/book/978-3-030-50244-7">
 
       <h2>pwn.college</h2>
       <p>ASU’s pwn.college is useful for our development because it has a similar idea to our project as it is university run with different modules that a user can complete for points, which compete on a leaderboard.</p>
