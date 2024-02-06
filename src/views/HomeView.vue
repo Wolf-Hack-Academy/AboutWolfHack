@@ -37,7 +37,7 @@
       />
 
       <UserProfile class="contributor-item"
-        title="Dave Feil-Seife"
+        title="Dave Feil-Seifer"
         profile-picture="https://www.unr.edu/main/images/colleges-schools/engineering/cse/profiles/DavidFeilSeifer.jpg"
         description="Associate Professor, Graduate Director"
       />
