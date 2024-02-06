@@ -1,0 +1,1 @@
+import{_ as e,c as s,o,a as t}from"./index-JfBrnRPs.js";const c={},_={class:"about"},a=t("h1",null,"News",-1),n=[a];function r(d,i){return o(),s("div",_,n)}const f=e(c,[["render",r]]);export{f as default};
