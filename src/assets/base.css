@@ -1,6 +1,7 @@
 /* semantic color variables for this project */
 :root {
   --color-background: white;
+  --card-background: #ededed;
   --color-border: #002660;
   --color-border-hover: #002660;
   --color-heading: #002660;
@@ -11,6 +12,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --color-background: #002660;
+    --card-background: #00337e;
     --color-border: white;
     --color-border-hover: white;
     --color-heading: white;
