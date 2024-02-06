@@ -30,7 +30,7 @@
     max-width: 300px;
     min-width: 300px;
     margin: 20px auto;
-    background-color: #f0f0f0;
+    background-color: var(--card-background);
     padding: 20px;
     text-align: center;
     display: flex;
