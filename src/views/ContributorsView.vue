@@ -23,7 +23,7 @@
 
         <UserProfile class="contributor-item"
           title="Nicole Siron"
-          profile-picture=""
+          profile-picture="https://media.licdn.com/dms/image/D4E03AQHe6TNCemTZYQ/profile-displayphoto-shrink_200_200/0/1707262294726?e=1712793600&v=beta&t=oNh0k6H1do56azVM6PnYyR-ITykHEc6ILkpuyko2hCI"
           description="BS student in Computer Science and Engineering"
         />
       </div>
