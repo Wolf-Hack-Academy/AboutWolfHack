@@ -45,7 +45,7 @@
       <UserProfile class="contributor-item"
         title="Devrin Lee"
         profile-picture="https://www.unr.edu/main/images/colleges-schools/engineering/cse/profiles/devrin-lee.jpg"
-        description="Teaching Assistant"
+        description="Project Manager"
       />
     </div>
   </div>
