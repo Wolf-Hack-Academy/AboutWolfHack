@@ -18,7 +18,7 @@
     <RouterLink to="/">About</RouterLink>
     <RouterLink to="/contributors">Contributors</RouterLink>
     <RouterLink to="/resources">Related Resources</RouterLink>
-    <RouterLink to="/news">News</RouterLink>
+    <RouterLink to="/deliverables">Project Deliverables</RouterLink>
   </nav>
   <RouterView />
 </template>
