@@ -8,7 +8,11 @@
     >
 
     <h2 class="beginning-section">Video</h2>
-
+    <iframe
+      width="1000"
+      height="600"
+      src="https://www.youtube.com/embed/mt6dUI7fCVU"
+    ></iframe>
     
   </div>
 </template>
